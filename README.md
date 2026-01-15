@@ -1,24 +1,18 @@
 FirstRestApi2 – Product REST API
-📌 Project Description
+ Project Description
 
 This project is a simple REST API application created using Spring Boot.
 The application allows managing products using basic CRUD operations (Create, Read, Update, Delete)
 Also uses h2 database that's implemented in-memory.
 
-🛠 Technologies Used
+ Technologies Used
 
 Java 
-
 Spring Boot
-
 Spring Web
-
 Spring Dependency Injection
-
 In-memory database (Map-based repository)
-
 Springdoc OpenAPI (Swagger UI)
-
 
 1.How to Run the App
 
@@ -44,15 +38,15 @@ Creating product by using POST
 ![img_4.png](img_4.png)
 ![img_5.png](img_5.png)
 
-3 Get Product by ID using GET
+3.Get Product by ID using GET
 
 ![img_6.png](img_6.png)
 
-4 Update Product by PUT
+4.Update Product by PUT
 
 ![img_7.png](img_7.png)![img_8.png](img_8.png) 
 
-5 Delete the Product (by using DELETE ofc)
+5.Delete the Product (by using DELETE)
 
 ![img_10.png](img_10.png) ![img_11.png](img_11.png)
 
