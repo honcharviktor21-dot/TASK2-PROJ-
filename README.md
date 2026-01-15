@@ -121,14 +121,5 @@ SELECT * FROM PRODUCTS;
 
 ---
 
-## ✅ Summary
 
-This project demonstrates:
-
-* A clean **Spring Boot REST API** structure
-* CRUD operations using REST principles
-* Integration with **H2 in-memory database**
-* Automatic API documentation using **Swagger UI**
-
-It is a great starting point for learning Spring Boot REST APIs 🚀
 
