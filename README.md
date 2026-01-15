@@ -1,4 +1,4 @@
-FirstRestApi2 – Product REST API
+FirstApiSpring – Product REST API
  Project Description
 
 This project is a simple REST API application created using Spring Boot.
